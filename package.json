@@ -1,0 +1,46 @@
+{
+  "name": "argosy-client",
+  "version": "0.0.0",
+  "description": "Consume micro-services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make npm-test",
+    "coverage": "make npm-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasonpincin/argosy-client.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonpincin/argosy-client/issues"
+  },
+  "homepage": "https://github.com/jasonpincin/argosy-client",
+  "author": {
+    "name": "Jason Pincin",
+    "email": "jason@pincin.com",
+    "url": "http://jason.pincin.com/"
+  },
+  "contributors": [],
+  "devDependencies": {
+    "istanbul": "^0.3.14",
+    "jshint": "^2.7.0",
+    "opn": "^1.0.2",
+    "tap-dot": "^1.0.0",
+    "tap-spec": "^3.0.0",
+    "tape": "^4.0.0",
+    "argosy-service": "^0.0.0",
+    "argosy-pattern": "^0.0.0"
+  },
+  "dependencies": {
+    "object-assign": "^2.0.0",
+    "promise-polyfill": "^2.0.2",
+    "split2": "^0.2.1",
+    "stream-combiner2": "^1.0.2",
+    "through2": "^0.6.5",
+    "through2-filter": "^1.4.1",
+    "through2-objectify": "^0.1.1",
+    "uuid": "^2.0.1"
+  }
+}
