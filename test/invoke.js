@@ -1,8 +1,7 @@
 var test          = require('tape'),
     argosyClient  = require('..'),
     argosyService = require('argosy-service'),
-    match         = require('argosy-pattern/match'),
-    through2      = require('through2')
+    match         = require('argosy-pattern/match')
 
 var service = argosyService()
 service.message({ get: 'random-number', min: match.number, max: match.number }).process(function (msg, cb) {
