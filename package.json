@@ -1,6 +1,6 @@
 {
   "name": "argosy-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Consume micro-services.",
   "main": "index.js",
   "scripts": {
