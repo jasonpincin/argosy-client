@@ -30,8 +30,8 @@
     "tap-dot": "~1.0.0",
     "tap-spec": "~4.0.0",
     "tape": "~4.0.0",
-    "argosy-service": "~1.0.1",
-    "argosy-pattern": "~1.0.0"
+    "argosy-service": "~1.0.2",
+    "argosy-pattern": "~1.0.1"
   },
   "dependencies": {
     "object-assign": "~3.0.0",
