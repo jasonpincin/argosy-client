@@ -5,7 +5,9 @@
 [![Coverage Status](https://coveralls.io/repos/jasonpincin/argosy-client/badge.png?branch=master)](https://coveralls.io/r/jasonpincin/argosy-client?branch=master)
 [![Davis Dependency Status](https://david-dm.org/jasonpincin/argosy-client.png)](https://david-dm.org/jasonpincin/argosy-client)
 
-Consume micro-services.
+Consume micro-services. 
+
+Part of the [Argosy](https://github.com/jasonpincin/argosy) family. 
 
 ## example
 
