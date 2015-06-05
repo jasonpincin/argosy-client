@@ -7,7 +7,7 @@ var assign    = require('object-assign'),
     uuid      = require('uuid').v4,
     Promise   = require('promise-polyfill')
 
-module.exports = function argosyService () {
+module.exports = function argosyClient () {
     var sequence    = 0,
         outstanding = [],
         input       = split(),
