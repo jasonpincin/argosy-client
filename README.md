@@ -5,6 +5,10 @@
 [![Coverage Status](https://coveralls.io/repos/jasonpincin/argosy-client/badge.png?branch=master)](https://coveralls.io/r/jasonpincin/argosy-client?branch=master)
 [![Davis Dependency Status](https://david-dm.org/jasonpincin/argosy-client.png)](https://david-dm.org/jasonpincin/argosy-client)
 
+## Deprecated
+
+Use [argosy](https://github.com/jasonpincin/argosy) instead. This module is no longer maintained as a separate entity. 
+
 Consume micro-services. 
 
 Part of the [Argosy](https://github.com/jasonpincin/argosy) family. 
